@@ -1,5 +1,5 @@
 # title of website
-title: navigation
+title: RawCode的导航网站
 
 # description of website
 description: plboss's navigation site
@@ -25,8 +25,8 @@ google_analytics: "G-EXE1PJ8CR2"
 
 webstack:
   search:
-    enabled: true
-    default: google
+    enabled: baidu
+    default: 
     # 可选的搜索引擎
     engines:
       - google
